@@ -73,15 +73,7 @@ Technical Skills: Progress bars for HTML, CSS, JavaScript, Java, React
 Professional Skills: Circular progress indicators for Creativity, Communication, Problem Solving, Teamwork
 4️⃣ Contact Section
 Contact Details: Address, Email, and Phone
-Interactive Contact Form: Users can submit their messages
-📌 How to Contribute
-Fork this repository
-Create a new branch (git checkout -b feature-branch)
-Make your changes and commit (git commit -m "Added new feature")
-Push to GitHub (git push origin feature-branch)
-Create a Pull Request
-📌 Live Demo
-If hosted on GitHub Pages, add:
+
 
 less
 Copy
@@ -92,14 +84,6 @@ Edit
 🌐 Portfolio: Sanika's Portfolio
 📍 Location: Pune, India
 
-📜 License
-This project is open-source and free to use under the MIT License.
+*OUTPUT*:
+![Image](https://github.com/user-attachments/assets/e2d75543-ea15-4830-8d97-fb18f55b0afe)
 
-Now, add this file to your GitHub repository:
-
-sh
-Copy
-Edit
-git add README.md
-git commit -m "Added README file"
-git push origin main
